@@ -228,9 +228,6 @@ class _RegisterPageState extends State<RegisterPage> {
                           child: ElevatedButton(
                               onPressed: () {
                                 _insertDialog();
-                                /*if (_formKey.currentState!.validate()) {
-                                  _formKey.currentState!.save();
-                                }*/
                               },
                               child: const Text("REGISTER",
                                   style: TextStyle(
