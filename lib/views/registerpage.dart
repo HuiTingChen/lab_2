@@ -158,7 +158,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                         prefixIcon: const Padding(
                                             padding:
                                                 EdgeInsets.only(bottom: 100),
-                                            child: Icon(Icons.description)),
+                                            child: Icon(Icons.house_outlined)),
                                         border: OutlineInputBorder(
                                             borderRadius:
                                                 BorderRadius.circular(5.0))),
